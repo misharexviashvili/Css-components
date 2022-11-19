@@ -14,7 +14,12 @@ body {
   text-align: center;
   font-weight: bold;
 }
-
+nav,
+menu,
+section,
+aside {
+  padding-top: 24px;
+}
 nav {
   background-color: #343a40;
   color: #fff;
